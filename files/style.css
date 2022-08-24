@@ -93,23 +93,21 @@ li {
 }
 
 a:link {
-    /*color:#2471A3; blue*/
-    /*color:#489B97;*/
-    color:#509C97;
-    text-decoration:none;
-}
-
-a:visited {
-    /*color:#2471A3;*/
-    /*color:#489B97;*/
-    color:#509C97;
+    color: #496499;
     text-decoration:none;
 }
 
 a:hover {
-	/*color:#2471A3;*/
-	/*color:#489B97;*/
-	color:#509C97;
-	/*background-color: #EEF9FF;*/
-	background-color: #F6FFFD;
+	color: #758cba;
+    text-decoration:none;
+}
+
+a:visited {
+    color: #496499;
+    text-decoration:none;
+}
+
+a:visited:hover {
+    color: #758cba;
+    text-decoration:none;
 }
